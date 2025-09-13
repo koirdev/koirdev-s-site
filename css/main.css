@@ -1,0 +1,26 @@
+body {
+  background-color: #9e1010;
+}
+
+/* colors */
+.white_color{
+    color:white;
+}
+.red_color {
+    color:red;
+}
+.white_text{
+    color:white;
+}
+.white_text:hover {
+    color:#bababa;
+}
+
+.main_text{
+    font-size: 1.5em;
+    color:white;
+}
+
+.main_text:hover {
+    color:#bababa;
+}
